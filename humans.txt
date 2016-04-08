@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Some Dude	sdude@xyz.com	@liptonice
 
 # THANKS
 
